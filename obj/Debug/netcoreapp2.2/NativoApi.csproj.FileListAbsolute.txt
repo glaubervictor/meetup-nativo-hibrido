@@ -1,0 +1,14 @@
+C:\Projetos\meetup\NativoApi\bin\Debug\netcoreapp2.2\NativoApi.deps.json
+C:\Projetos\meetup\NativoApi\bin\Debug\netcoreapp2.2\NativoApi.runtimeconfig.json
+C:\Projetos\meetup\NativoApi\bin\Debug\netcoreapp2.2\NativoApi.runtimeconfig.dev.json
+C:\Projetos\meetup\NativoApi\bin\Debug\netcoreapp2.2\NativoApi.dll
+C:\Projetos\meetup\NativoApi\bin\Debug\netcoreapp2.2\NativoApi.pdb
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.csprojAssemblyReference.cache
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.csproj.CoreCompileInputs.cache
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.RazorAssemblyInfo.cache
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.RazorAssemblyInfo.cs
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.AssemblyInfoInputs.cache
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.AssemblyInfo.cs
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.RazorTargetAssemblyInfo.cache
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.dll
+C:\Projetos\meetup\NativoApi\obj\Debug\netcoreapp2.2\NativoApi.pdb
