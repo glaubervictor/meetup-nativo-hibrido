@@ -1,0 +1,14 @@
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\bin\Debug\netcoreapp2.1\NativoApi.deps.json
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\bin\Debug\netcoreapp2.1\NativoApi.runtimeconfig.json
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\bin\Debug\netcoreapp2.1\NativoApi.runtimeconfig.dev.json
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\bin\Debug\netcoreapp2.1\NativoApi.dll
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\bin\Debug\netcoreapp2.1\NativoApi.pdb
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.csprojAssemblyReference.cache
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.RazorAssemblyInfo.cache
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.RazorAssemblyInfo.cs
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.AssemblyInfoInputs.cache
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.AssemblyInfo.cs
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.RazorTargetAssemblyInfo.cache
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.dll
+C:\Projetos.Net\meetup\meetup-nativo-hibrido-webapi\obj\Debug\netcoreapp2.1\NativoApi.pdb
