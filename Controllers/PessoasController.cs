@@ -4,8 +4,7 @@ using NativoApi.Models;
 namespace NativoApi.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
-    public class PessoasController : ControllerBase
+    public class PessoasController : Controller
     {
         [HttpGet]
         public ActionResult Get()
